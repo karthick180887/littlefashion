@@ -1,0 +1,1 @@
+aws s3 cp s3://databricks-corp-training/common/twitter/firehose/2018/01/08/18/twitterstream-1-2018-01-08-18-48-00-bcf3d615-9c04-44ec-aac9-25f966490aa4 ~
